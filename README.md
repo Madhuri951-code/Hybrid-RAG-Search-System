@@ -46,7 +46,7 @@ Precision = Relevant Retrieved Documents / Total Retrieved Documents
 Recall = Relevant Retrieved Documents / Total Relevant Documents
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * NLP
